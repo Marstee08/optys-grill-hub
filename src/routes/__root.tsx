@@ -153,6 +153,7 @@ function MobileNav() {
     { to: "/" as const, label: "Home" },
     { to: "/menu" as const, label: "Menu" },
     { to: "/reviews" as const, label: "Reviews" },
+    { to: "/demo" as const, label: "Demo" },
   ];
 
   return (
